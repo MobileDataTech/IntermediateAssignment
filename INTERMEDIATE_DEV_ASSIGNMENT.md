@@ -1,10 +1,10 @@
-# Junior Developer Interview Assignment
+# Intermediate Developer Interview Assignment
 
 ## Overview
 
 This assignment adds an **Alert History Dashboard** feature to the existing Pump Telemetry Monitor application.
 
-The main goal is to persist generated alerts and allow the monitor app to display a history of past alerts. This improves observability and adds a useful end-user feature while keeping the work scoped for a junior developer.
+The main goal is to persist generated alerts and allow the monitor app to display a history of past alerts. This improves observability and adds a useful end-user feature while keeping the work scoped for an intermediate developer.
 
 ## Requirements
 
